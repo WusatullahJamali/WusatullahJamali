@@ -8,11 +8,15 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wusatullahjamali@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923103969419)
 
+<br/>
+<img src="https://komarev.com/ghpvc/?username=WusatullahJamali&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<p><i>"Turning complex problems into elegant, scalable digital experiences."</i></p>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me & My Journey
 
 I am a results-driven Software Engineer based in Hyderabad, with a strong foundation in modern web technologies. I specialize in crafting intuitive, scalable, and highly performant user interfaces and full-stack applications. 
 
@@ -21,6 +25,13 @@ I am a results-driven Software Engineer based in Hyderabad, with a strong founda
 * 🌟 Previously served as the **Director of Management for GDSC MUET**, organizing tech initiatives and managing operational events.
 * 💻 **My focus:** Building robust applications using **React, Next.js, TypeScript, Tailwind CSS, and Shadcn/UI**.
 * 🌱 **Always learning:** Constantly exploring system architecture, clean code practices, and the latest in the JavaScript ecosystem.
+
+<br>
+
+> **💡 What I'm Doing:**
+> * 🔥 Building modern Full Stack applications and enterprise dashboards.
+> * ⚡ Mastering scalable frontend architectures and reusable component libraries.
+> * 🤝 Open to collaborate on exciting freelance and development opportunities.
 
 ---
 
@@ -52,25 +63,28 @@ I am a results-driven Software Engineer based in Hyderabad, with a strong founda
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-
-
-
 ---
 
-## 📈 GitHub Activity & Analytics
+## 🚀 Core Competencies & Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WusatullahJamali&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WusatullahJamali&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" width="49%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WusatullahJamali&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="60%" />
-</div>
+```text
+███████████████████████░░░░░ 85% — Mastering Modern Web Ecosystems
 
----
+✓ Advanced Next.js App Router       ✓ React Server Components
+✓ TypeScript Strict Typing          ✓ State Management (Redux/Zustand)
+✓ API Development & Integration     ✓ UI/UX Responsive Implementation
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WusatullahJamali&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <p><i>"Writing clean code and building digital experiences that matter."</i></p>
-</div>
+
+📈 GitHub Analytics & Activity
+🏆 GitHub Trophies
+🌍 Developer Philosophy
+🚀 Build — Creating scalable web applications using modern technologies.
+
+
+📚 Learn — Continuously improving through new tools, frameworks, and clean code architecture.
+
+
+🤝 Collaborate — Always open to teaming up on exciting development opportunities.
+
+☕ Thanks for visiting!
+Let's build something amazing together.
