@@ -87,18 +87,3 @@ I am a results-driven Software Engineer based in Hyderabad, with a strong founda
 ✓ Advanced MERN Stack Integration
 ✓ Optimizing Frontend Performance & DX
 
-
-##🌍 Developer Philosophy
-"Turning ideas into digital experiences."
-
-##🚀 Build - Creating scalable web and mobile applications using modern technologies.
-
-##📚 Learn - Continuously improving through new tools, frameworks, and backend architecture.
-
-##🤝 Collaborate - Always open to collaborating on exciting freelance and development opportunities.
-
-##💬 Let's Build Something Amazing Together
-Whether it's a modern website, scalable web application, or resolving complex platform challenges, I'm always excited to collaborate on meaningful projects. If you're looking for someone passionate about creating modern digital experiences, I'd love to connect.
-
-##☕ Thanks for Visiting!
-##⭐ Thank you for stopping by! I'm always learning, building, and exploring new technologies. Let's create something impactful together.
