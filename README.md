@@ -1,17 +1,16 @@
 <div align="center">
-  
+
 # Hi there, I'm Wusatullah Jamali 👋
 
 **Software Engineer | Frontend & MERN Stack Developer**
 
-<p><i>"Turning complex problems into elegant, scalable digital experiences."</i></p>
+*"Turning complex problems into elegant, scalable digital experiences."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wusatullah-jamali-981922242/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wusatullahjamali@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923103969419)
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=WusatullahJamali&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=WusatullahJamali&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -19,7 +18,7 @@
 
 ## ✨ About Me
 
-I am a results-driven Software Engineer based in Hyderabad, with a strong foundation in modern web technologies. 
+I am a results-driven Software Engineer based in Hyderabad, with a strong foundation in modern web technologies.
 
 > **👨‍💻 Developer Details:**
 > * **Name:** Wusatullah Jamali
@@ -28,7 +27,7 @@ I am a results-driven Software Engineer based in Hyderabad, with a strong founda
 > * **Focus:** Building robust applications using React, Next.js, TypeScript, Tailwind CSS, and Shadcn/UI.
 > * **Goal:** Become a Software Engineer building products used by millions.
 
-<br>
+---
 
 ## 🚀 What I'm Doing
 
@@ -43,28 +42,25 @@ I am a results-driven Software Engineer based in Hyderabad, with a strong founda
 ## 💻 Technology Stack
 
 ### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -85,29 +81,24 @@ I am a results-driven Software Engineer based in Hyderabad, with a strong founda
 ```text
 ███████████████████████░░░░░ 85%
 
-✓ Full Stack Development
-✓ React Ecosystem
-✓ Next.js Architecture
-✓ Node.js & Backend Systems
-✓ Continuous Learning
+✓ Architecting Scalable Next.js Platforms
+✓ Building Enterprise UI with Tailwind & Shadcn
+✓ Mastering TypeScript & Type-Safe Codebases
+✓ Advanced MERN Stack Integration
+✓ Optimizing Frontend Performance & DX
 
 
-
-#📊 GitHub Analytics
-#🏆 GitHub Trophies
-#🌍 Developer Philosophy
+##🌍 Developer Philosophy
 "Turning ideas into digital experiences."
 
-#🚀 Build - Creating scalable web and mobile applications using modern technologies.
+##🚀 Build - Creating scalable web and mobile applications using modern technologies.
 
-#📚 Learn - Continuously improving through new tools, frameworks, and backend architecture.
+##📚 Learn - Continuously improving through new tools, frameworks, and backend architecture.
 
-#🤝 Collaborate - Always open to collaborating on exciting freelance and development opportunities.
+##🤝 Collaborate - Always open to collaborating on exciting freelance and development opportunities.
 
-#💬 Let's Build Something Amazing Together
-Whether it's a modern website, scalable web application, or resolving complex platform challenges,
-I'm always excited to collaborate on meaningful projects. If you're looking for someone passionate 
-about creating modern digital experiences, I'd love to connect.
+##💬 Let's Build Something Amazing Together
+Whether it's a modern website, scalable web application, or resolving complex platform challenges, I'm always excited to collaborate on meaningful projects. If you're looking for someone passionate about creating modern digital experiences, I'd love to connect.
 
-#☕ Thanks for Visiting!
-⭐ Thank you for stopping by! I'm always learning, building, and exploring new technologies. Let's create something impactful together.
+##☕ Thanks for Visiting!
+##⭐ Thank you for stopping by! I'm always learning, building, and exploring new technologies. Let's create something impactful together.
