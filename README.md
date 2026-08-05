@@ -20,7 +20,7 @@
 
 I am a results-driven Software Engineer based in Hyderabad, with a strong foundation in modern web technologies.
 
-> **👨‍💻 Developer Details:**
+> **👨‍💻 My Details:**
 > * **Name:** Wusatullah Jamali
 > * **Role:** Developer at Samarix
 > * **Education:** Bachelor of Engineering in Software Engineering, MUET
