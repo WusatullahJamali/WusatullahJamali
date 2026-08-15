@@ -2,7 +2,7 @@
 
 # Hi there, I'm Wusatullah Jamali 👋
 
-**Software Engineer | Frontend & MERN Stack Developer**
+**Software Engineer | Senior Frontend & MERN Stack Developer**
 
 *"Turning complex problems into elegant, scalable digital experiences."*
 
@@ -22,7 +22,7 @@ I am a results-driven Software Engineer based in Hyderabad, with a strong founda
 
 > **👨‍💻 My Details:**
 > * **Name:** Wusatullah Jamali
-> * **Role:** Developer at Samarix
+> * **Role:** MERN Stack Developer at Samarix
 > * **Education:** Bachelor of Engineering in Software Engineering, MUET
 > * **Focus:** Building robust applications using React, Next.js, TypeScript, Tailwind CSS, and Shadcn/UI.
 > * **Goal:** Become a Software Engineer building products used by millions.
